@@ -1,0 +1,79 @@
+[
+	{
+		"problem": "1544. Make The String Great",
+		"difficulty": "easy",
+		"date": 44872,
+		"time": 1.7972222222222223,
+		"1 try?": false,
+		"notes": "Remember:\n\n- for loops increase once the code inside the for () {... } is done. So it should have been (i + 1) NOT (i + 2) \n- I FORGOT to check that the case of the chars was different! Always check that I am actually solving the prompt",
+		"new column": "hello"
+	},
+	{
+		"problem": "219. Contains Duplicate II",
+		"difficulty": "easy",
+		"date": 44875,
+		"time": 3.0680555555555555,
+		"1 try?": false,
+		"notes": "Simplify your algorithm! Can you use a map and make this easy, don't over complicate with know patterns and techniques until you realize you need to"
+	},
+	{
+		"problem": "238. Product of Array Except Self",
+		"difficulty": "medium",
+		"date": 44885,
+		"time": 1.0416666666666667,
+		"1 try?": false
+	},
+	{
+		"problem": "901. Online Stock Span",
+		"difficulty": "medium",
+		"date": 44885,
+		"time": 0.5951388888888889,
+		"1 try?": true,
+		"notes": "Has a tricky optimization, pls review :3"
+	},
+	{
+		"problem": "567. Permutation in String",
+		"difficulty": "medium",
+		"date": 44886,
+		"time": 1.725,
+		"1 try?": true
+	},
+	{
+		"problem": "695. Max Area of Island",
+		"difficulty": "medium",
+		"date": 44895,
+		"time": 0.8111111111111111,
+		"1 try?": true
+	},
+	{
+		"problem": "733. Flood Fill",
+		"difficulty": "easy",
+		"date": 44895,
+		"time": 0.8527777777777777,
+		"1 try?": false,
+		"notes": "Ask obvious questions: the \"bad\" color can be the same as the \"good\" color"
+	},
+	{
+		"problem": "438. Find All Anagrams in a String",
+		"difficulty": "medium",
+		"date": 44898,
+		"time": 2.3131944444444446,
+		"1 try?": false,
+		"notes": "Had bugs with code logic!"
+	},
+	{
+		"problem": "26. Remove Duplicates from Sorted Array",
+		"difficulty": "easy",
+		"date": 44898,
+		"time": 2.015972222222222,
+		"1 try?": false
+	},
+	{
+		"problem": "977. Squares of a Sorted Array",
+		"difficulty": "easy",
+		"date": 44900,
+		"time": 1.14375,
+		"1 try?": false,
+		"notes": "While loop conditions! Please be careful question < versus <=!!"
+	}
+]
