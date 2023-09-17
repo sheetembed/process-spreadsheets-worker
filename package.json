@@ -15,9 +15,18 @@
 		"start": "node dist"
 	},
 	"dependencies": {
-		"esbuild": "^0.19.2"
+		"@planetscale/database": "^1.11.0",
+		"bullmq": "^4.8.0",
+		"drizzle-orm": "^0.28.5",
+		"esbuild": "^0.19.2",
+		"ioredis": "^5.3.2",
+		"superjson": "^1.13.1",
+		"xlsx": "^0.18.5",
+		"zlib": "^1.0.5",
+		"zod": "^3.22.2"
 	},
 	"devDependencies": {
-		"@types/node": "^20.5.6"
+		"@types/node": "^20.5.6",
+		"drizzle-kit": "^0.19.13"
 	}
 }

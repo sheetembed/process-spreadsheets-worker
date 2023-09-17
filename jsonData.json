@@ -1,0 +1,332 @@
+[
+	{
+		"Sheet1": [
+			{
+				"problem": {
+					"raw_value": "problem",
+					"formula": null,
+					"data_type": "string"
+				},
+				"difficulty": {
+					"raw_value": "difficulty",
+					"formula": null,
+					"data_type": "string"
+				},
+				"date": { "raw_value": "date", "formula": null, "data_type": "string" },
+				"time": { "raw_value": "time", "formula": null, "data_type": "string" },
+				"1 try?": {
+					"raw_value": "1 try?",
+					"formula": null,
+					"data_type": "string"
+				},
+				"notes": {
+					"raw_value": "notes",
+					"formula": null,
+					"data_type": "string"
+				}
+			},
+			{
+				"problem": {
+					"raw_value": "1544. Make The String Great",
+					"formula": null,
+					"data_type": "string"
+				},
+				"difficulty": {
+					"raw_value": "easy",
+					"formula": null,
+					"data_type": "string"
+				},
+				"date": {
+					"raw_value": 44872,
+					"row_str_value": "11/7/22",
+					"formula": null,
+					"data_type": "number"
+				},
+				"time": {
+					"raw_value": "43:08:00",
+					"formula": null,
+					"data_type": "string"
+				},
+				"1 try?": {
+					"raw_value": false,
+					"formula": null,
+					"data_type": "boolean"
+				},
+				"notes": {
+					"raw_value": "Remember:\n\n- for loops increase once the code inside the for () {... } is done. So it should have been (i + 1) NOT (i + 2) \n- I FORGOT to check that the case of the chars was different! Always check that I am actually solving the prompt",
+					"formula": null,
+					"data_type": "string"
+				}
+			},
+			{
+				"problem": {
+					"raw_value": "219. Contains Duplicate II",
+					"formula": null,
+					"data_type": "string"
+				},
+				"difficulty": {
+					"raw_value": "easy",
+					"formula": null,
+					"data_type": "string"
+				},
+				"date": {
+					"raw_value": 44875,
+					"row_str_value": "11/10/22",
+					"formula": null,
+					"data_type": "number"
+				},
+				"time": {
+					"raw_value": "73:38:00",
+					"formula": null,
+					"data_type": "string"
+				},
+				"1 try?": {
+					"raw_value": false,
+					"formula": null,
+					"data_type": "boolean"
+				},
+				"notes": {
+					"raw_value": "Simplify your algorithm! Can you use a map and make this easy, don't over complicate with know patterns and techniques until you realize you need to",
+					"formula": null,
+					"data_type": "string"
+				}
+			},
+			{
+				"problem": {
+					"raw_value": "238. Product of Array Except Self",
+					"formula": null,
+					"data_type": "string"
+				},
+				"difficulty": {
+					"raw_value": "medium",
+					"formula": null,
+					"data_type": "string"
+				},
+				"date": {
+					"raw_value": 44885,
+					"row_str_value": "11/20/22",
+					"formula": null,
+					"data_type": "number"
+				},
+				"time": {
+					"raw_value": "25:00:00",
+					"formula": null,
+					"data_type": "string"
+				},
+				"1 try?": {
+					"raw_value": false,
+					"formula": null,
+					"data_type": "boolean"
+				}
+			},
+			{
+				"problem": {
+					"raw_value": "901. Online Stock Span",
+					"formula": null,
+					"data_type": "string"
+				},
+				"difficulty": {
+					"raw_value": "medium",
+					"formula": null,
+					"data_type": "string"
+				},
+				"date": {
+					"raw_value": 44885,
+					"row_str_value": "11/20/22",
+					"formula": null,
+					"data_type": "number"
+				},
+				"time": {
+					"raw_value": "14:17:00",
+					"formula": null,
+					"data_type": "string"
+				},
+				"1 try?": {
+					"raw_value": true,
+					"formula": null,
+					"data_type": "boolean"
+				},
+				"notes": {
+					"raw_value": "Has a tricky optimization, pls review :3",
+					"formula": null,
+					"data_type": "string"
+				}
+			},
+			{
+				"problem": {
+					"raw_value": "567. Permutation in String",
+					"formula": null,
+					"data_type": "string"
+				},
+				"difficulty": {
+					"raw_value": "medium",
+					"formula": null,
+					"data_type": "string"
+				},
+				"date": {
+					"raw_value": 44886,
+					"row_str_value": "11/21/22",
+					"formula": null,
+					"data_type": "number"
+				},
+				"time": {
+					"raw_value": "41:24:00",
+					"formula": null,
+					"data_type": "string"
+				},
+				"1 try?": { "raw_value": true, "formula": null, "data_type": "boolean" }
+			},
+			{
+				"problem": {
+					"raw_value": "695. Max Area of Island",
+					"formula": null,
+					"data_type": "string"
+				},
+				"difficulty": {
+					"raw_value": "medium",
+					"formula": null,
+					"data_type": "string"
+				},
+				"date": {
+					"raw_value": 44895,
+					"row_str_value": "11/30/22",
+					"formula": null,
+					"data_type": "number"
+				},
+				"time": {
+					"raw_value": "19:28:00",
+					"formula": null,
+					"data_type": "string"
+				},
+				"1 try?": { "raw_value": true, "formula": null, "data_type": "boolean" }
+			},
+			{
+				"problem": {
+					"raw_value": "733. Flood Fill",
+					"formula": null,
+					"data_type": "string"
+				},
+				"difficulty": {
+					"raw_value": "easy",
+					"formula": null,
+					"data_type": "string"
+				},
+				"date": {
+					"raw_value": 44895,
+					"row_str_value": "11/30/22",
+					"formula": null,
+					"data_type": "number"
+				},
+				"time": {
+					"raw_value": "20:28:00",
+					"formula": null,
+					"data_type": "string"
+				},
+				"1 try?": {
+					"raw_value": false,
+					"formula": null,
+					"data_type": "boolean"
+				},
+				"notes": {
+					"raw_value": "Ask obvious questions: the \"bad\" color can be the same as the \"good\" color",
+					"formula": null,
+					"data_type": "string"
+				}
+			},
+			{
+				"problem": {
+					"raw_value": "438. Find All Anagrams in a String",
+					"formula": null,
+					"data_type": "string"
+				},
+				"difficulty": {
+					"raw_value": "medium",
+					"formula": null,
+					"data_type": "string"
+				},
+				"date": {
+					"raw_value": 44898,
+					"row_str_value": "12/3/22",
+					"formula": null,
+					"data_type": "number"
+				},
+				"time": {
+					"raw_value": "55:31:00",
+					"formula": null,
+					"data_type": "string"
+				},
+				"1 try?": {
+					"raw_value": false,
+					"formula": null,
+					"data_type": "boolean"
+				},
+				"notes": {
+					"raw_value": "Had bugs with code logic!",
+					"formula": null,
+					"data_type": "string"
+				}
+			},
+			{
+				"problem": {
+					"raw_value": "26. Remove Duplicates from Sorted Array",
+					"formula": null,
+					"data_type": "string"
+				},
+				"difficulty": {
+					"raw_value": "easy",
+					"formula": null,
+					"data_type": "string"
+				},
+				"date": {
+					"raw_value": 44898,
+					"row_str_value": "12/3/22",
+					"formula": null,
+					"data_type": "number"
+				},
+				"time": {
+					"raw_value": "48:23:00",
+					"formula": null,
+					"data_type": "string"
+				},
+				"1 try?": {
+					"raw_value": false,
+					"formula": null,
+					"data_type": "boolean"
+				}
+			},
+			{
+				"problem": {
+					"raw_value": "977. Squares of a Sorted Array",
+					"formula": null,
+					"data_type": "string"
+				},
+				"difficulty": {
+					"raw_value": "easy",
+					"formula": null,
+					"data_type": "string"
+				},
+				"date": {
+					"raw_value": 44900,
+					"row_str_value": "12/5/22",
+					"formula": null,
+					"data_type": "number"
+				},
+				"time": {
+					"raw_value": "27:27:00",
+					"formula": null,
+					"data_type": "string"
+				},
+				"1 try?": {
+					"raw_value": false,
+					"formula": null,
+					"data_type": "boolean"
+				},
+				"notes": {
+					"raw_value": "While loop conditions! Please be careful question < versus <=!!",
+					"formula": null,
+					"data_type": "string"
+				}
+			}
+		]
+	}
+]
